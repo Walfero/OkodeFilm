@@ -1,0 +1,7 @@
+{
+  "name": "OkodeFilm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
